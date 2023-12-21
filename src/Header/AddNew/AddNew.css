@@ -1,0 +1,12 @@
+.header__button {
+  font-size: 12px;
+  border: none;
+  border-radius: 6px;
+}
+
+
+@media (max-width: 480px) { 
+  .header__button {
+    font-size: 6px;
+  }
+}

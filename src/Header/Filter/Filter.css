@@ -1,0 +1,8 @@
+.header-l__filter {
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  border-radius: 6px;
+  background-color: #FFF;
+  border: none;
+}
